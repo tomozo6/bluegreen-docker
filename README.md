@@ -17,11 +17,11 @@ $ docker run -p 8080:80 tomozo6/bluegreen:blue
 
 ## 画面イメージ
 ### blue.html
-![blue.html](https://github.com/tomozo6/bluegreen-docker/blob/master/doc/blue.png)
+![blue.html](/doc/blue.png)
 
 ### green.html
-![green.html](https://github.com/tomozo6/bluegreen-docker/blob/master/doc/green.png)
+![green.html](/doc/green.png)
 
 ### red.html
-![red.html](https://github.com/tomozo6/bluegreen-docker/blob/master/doc/red.png)
+![red.html](/doc/red.png)
 
